@@ -1,0 +1,1 @@
+This application is a real-time chat system built with ASP.NET Core using SignalR. It supports both private chat (one-on-one) and group chat functionalities. Users can send text messages and share files.
