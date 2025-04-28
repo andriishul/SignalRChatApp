@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Chat Options";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="options-container">
+    <p>Select how you'd like to send your message:</p>
+
+    <div class="option-buttons">
+        <a href="@Url.Action("Group", "Chat")" class="btn btn-primary">Send to Group</a>
+        <a href="@Url.Action("Messenger", "Chat")" class="btn btn-success">Send to Mail</a>
+    </div>
+</div>
+
+<style>
+    .options-container {
+        padding: 30px;
+        max-width: 600px;
+        margin: auto;
+        text-align: center;
+    }
+
+    .option-buttons a {
+        margin: 10px;
+        padding: 10px 20px;
+        font-size: 16px;
+    }
+</style>

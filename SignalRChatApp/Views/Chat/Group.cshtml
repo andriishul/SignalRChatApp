@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "Group Chat";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Group Chat with File Upload</title>
+    <link rel="stylesheet" href="~/css/styles.css">
+</head>
+<body>
+    <h2>Group Chat</h2>
+
+    <div class="chat-container">
+        <div class="message-box" id="messageBox"></div>
+    </div>
+
+    <div class="send-message-container">
+        <div class="input-group">
+            <label for="groupName">Group Name</label>
+            <input type="text" id="groupName" placeholder="Enter group name">
+        </div>
+
+        <div class="input-group">
+            <label for="messageInput">Message</label>
+            <textarea id="messageInput" rows="3" placeholder="Type your message"></textarea>
+        </div>
+
+        <div class="input-group">
+            <label for="fileInput">Attach a File (optional)</label>
+            <input type="file" id="fileInput">
+        </div>
+
+        <div class="submit-button">
+            <button id="joinGroupBtn">Join Group</button>
+            <button id="leaveGroupBtn">Leave Group</button>
+            <button id="sendGroupMessageBtn">Send Message</button>
+        </div>
+    </div>
+</body>
+</html>
+
+@section scripts {
+    <script src="~/js/signalr/dist/browser/signalr.min.js"></script>
+    <script src="~/js/groupChat.js"></script>
+}
+

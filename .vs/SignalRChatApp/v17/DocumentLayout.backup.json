@@ -1,0 +1,608 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\signalrchatapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\signalrchatapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\hubs\\chatcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\hubs\\chatcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\migrations\\20250426230248_createidentitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\migrations\\20250426230248_createidentitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\migrations\\userdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\migrations\\userdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\views\\chat\\messenger.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\views\\chat\\messenger.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\views\\chat\\group.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\views\\chat\\group.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\wwwroot\\js\\groupchat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\wwwroot\\js\\groupchat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\wwwroot\\js\\privatechat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\wwwroot\\js\\privatechat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\models\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|c:\\users\\shulg\\source\\repos\\signalrchatapp\\signalrchatapp\\signalrchatapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CAD69B3-1409-4590-86ED-8C0F503EB3A5}|SignalRChatApp\\SignalRChatApp.csproj|solutionrelative:signalrchatapp\\signalrchatapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignalRChatApp",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\SignalRChatApp.csproj",
+              "RelativeDocumentMoniker": "SignalRChatApp\\SignalRChatApp.csproj",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\SignalRChatApp.csproj",
+              "RelativeToolTip": "SignalRChatApp\\SignalRChatApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T19:34:15.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Migrations\\UserDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Migrations\\UserDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Migrations\\UserDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SignalRChatApp\\Migrations\\UserDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:33:43.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SignalRChatApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T19:29:04.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SignalRChatApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T19:29:02.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SignalRChatApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T19:29:01.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SignalRChatApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T19:28:50.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "SignalRChatApp\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:52:17.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Auth\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Views\\Auth\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Auth\\SignIn.cshtml",
+              "RelativeToolTip": "SignalRChatApp\\Views\\Auth\\SignIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T20:17:39.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatContent.cs",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Hubs\\ChatContent.cs",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Hubs\\ChatContent.cs",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Hubs\\ChatContent.cs",
+              "RelativeToolTip": "SignalRChatApp\\Hubs\\ChatContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:57:04.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "SignalRChatApp\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "SignalRChatApp\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T15:55:39.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250426230248_CreateIdentityTable.cs",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Migrations\\20250426230248_CreateIdentityTable.cs",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Migrations\\20250426230248_CreateIdentityTable.cs",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Migrations\\20250426230248_CreateIdentityTable.cs",
+              "RelativeToolTip": "SignalRChatApp\\Migrations\\20250426230248_CreateIdentityTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:14:18.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "SignalRChatApp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "SignalRChatApp\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-27T14:51:22.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "privateChat.js",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\wwwroot\\js\\privateChat.js",
+              "RelativeDocumentMoniker": "SignalRChatApp\\wwwroot\\js\\privateChat.js",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\wwwroot\\js\\privateChat.js",
+              "RelativeToolTip": "SignalRChatApp\\wwwroot\\js\\privateChat.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-26T23:42:29.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "groupChat.js",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\wwwroot\\js\\groupChat.js",
+              "RelativeDocumentMoniker": "SignalRChatApp\\wwwroot\\js\\groupChat.js",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\wwwroot\\js\\groupChat.js",
+              "RelativeToolTip": "SignalRChatApp\\wwwroot\\js\\groupChat.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-26T23:17:35.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Data\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Data\\UserDbContext.cs",
+              "RelativeToolTip": "SignalRChatApp\\Data\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T23:06:33.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SignalRChatApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T20:30:23.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SignalRChatApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T20:26:41.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Messenger.cshtml",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Chat\\Messenger.cshtml",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Views\\Chat\\Messenger.cshtml",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Chat\\Messenger.cshtml",
+              "RelativeToolTip": "SignalRChatApp\\Views\\Chat\\Messenger.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T20:20:49.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Chat\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Views\\Chat\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Chat\\Index.cshtml",
+              "RelativeToolTip": "SignalRChatApp\\Views\\Chat\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T20:20:48.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Group.cshtml",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Chat\\Group.cshtml",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Views\\Chat\\Group.cshtml",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Chat\\Group.cshtml",
+              "RelativeToolTip": "SignalRChatApp\\Views\\Chat\\Group.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T20:20:44.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SignalRChatApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:19:16.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "SignalRChatApp\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:18:02.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SignalRChatApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T20:17:20.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SignalRChatApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:16:00.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "SignalRChatApp\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T20:12:45.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SignInViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Models\\SignInViewModel.cs",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Models\\SignInViewModel.cs",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Models\\SignInViewModel.cs",
+              "RelativeToolTip": "SignalRChatApp\\Models\\SignInViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:12:21.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SignalRChatApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:11:22.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SignalRChatApp.csproj",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\SignalRChatApp.csproj",
+              "RelativeDocumentMoniker": "SignalRChatApp\\SignalRChatApp.csproj",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\SignalRChatApp.csproj",
+              "RelativeToolTip": "SignalRChatApp\\SignalRChatApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T20:02:32.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "SignalRChatApp\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:45:59.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "SignalRChatApp\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:36:39.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SignalRChatApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\appsettings.json",
+              "RelativeToolTip": "SignalRChatApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T19:36:00.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRChatApp\\Program.cs",
+              "ToolTip": "C:\\Users\\shulg\\source\\repos\\SignalRChatApp\\SignalRChatApp\\Program.cs",
+              "RelativeToolTip": "SignalRChatApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:26:15.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
